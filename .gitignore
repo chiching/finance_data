@@ -1,0 +1,11 @@
+# compiled python files
+*.py[co]
+
+*.exe
+
+*/data/*.json
+
+# various virtualenv
+*/__pycache__/
+/.venv/
+/softwares/
